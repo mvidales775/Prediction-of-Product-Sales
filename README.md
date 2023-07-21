@@ -21,15 +21,23 @@ From this dataset, there were 8523 rows and 11 columns
 ## Results
 
 
-#### Visual 1 Title
+#### Visulisation of amounts of each categories
 ![ITEMTYPE_COUNT.png](ITEMTYPE_COUNT.png)
 
-> Sentence about visualization.
+> Top 3 Categories
+  - Fruits and Vegeables
+  - Snack Foods
+  - Household
 
-#### Visual 2 Title
+> Bottom 3 Catergories
+  - Seafood
+  - Breakfast
+  - Starchy Foods
+
+#### Item sales by type
 ![ITEMSALES_BY_TYPE.png](ITEMSALES_BY_TYPE.png)
 
->
+> On average seafood and household have the highest sales per outlet, While Soft drinks and baking Goods have the loswest.
 
 
 ## Maching Learning Using the Following Models:
@@ -37,6 +45,8 @@ From this dataset, there were 8523 rows and 11 columns
 - Linear Regression Model
 - Random Forest Regressor Model
 - Tuned Random Forest Regressor Model
+
+## Models Evaluated & Results
 
 ------------------------------------------------------------
 Linear Regression Test Data
@@ -62,7 +72,6 @@ Tuned Random Forest Test Data
 - RMSE = 1,057.90
 - R^2 = 0.59
 
-## Models Evaluated & Results
 
 The Final Model Chosen was a Random Forest Regressor Model with the n_estimators tuned to 100.
 
