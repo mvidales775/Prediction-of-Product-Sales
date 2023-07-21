@@ -32,7 +32,7 @@ From this dataset, there were 8523 rows and 11 columns
 >
 
 
-## Model
+## Maching Learning Using the Following Models:
 
 - Linear Regression Model
 - Random Forest Regressor Model
@@ -62,6 +62,7 @@ Tuned Random Forest Test Data
 - RMSE = 1,057.90
 - R^2 = 0.59
 
+## Models Evaluated & Results
 
 The Final Model Chosen was a Random Forest Regressor Model with the n_estimators tuned to 100.
 
