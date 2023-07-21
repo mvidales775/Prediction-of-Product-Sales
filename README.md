@@ -20,8 +20,6 @@ From this dataset, there were 8523 rows and 11 columns
 
 ## Results
 
-### Here are examples of how to embed images from your sub-folder
-
 
 #### Visual 1 Title
 ![ITEMTYPE_COUNT.png](ITEMTYPE_COUNT.png)
