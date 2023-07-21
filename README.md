@@ -14,7 +14,7 @@ Here is where you state the business problem you were trying to solve
 From this dataset, there were 8523 rows and 11 columns 
 
 ## Data Dictionary:
-
+![DataDictionary.png](DataDictionary.png)
 
 ## Methods
 - During the exploratory data analysis, a boxplot and histogram was visualized for each numeric datatype column. 
@@ -27,11 +27,15 @@ From this dataset, there were 8523 rows and 11 columns
 
 
 #### Visual 1 Title
-![sample image](project1_sample_image.png)
+![ITEMTYPE_COUNT.png](ITEMTYPE_COUNT.png)
 
 > Sentence about visualization.
 
 #### Visual 2 Title
+![ITEMSALES_BY_TYPE.png](ITEMSALES_BY_TYPE.png)
+
+>
+
 
 ## Model
 
