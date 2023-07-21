@@ -36,11 +36,45 @@ From this dataset, there were 8523 rows and 11 columns
 
 ## Model
 
-Describe your final model
+- Linear Regression Model
+- Random Forest Regressor Model
+- Tuned Random Forest Regressor Model
 
-Report the most important metrics
+------------------------------------------------------------
+Linear Regression Test Data
+------------------------------------------------------------
+- MAE = 804.12
+- MSE = 1,194,351.19
+- RMSE = 1,092.86
+- R^2 = 0.57
 
-Refer to the metrics to describe how well the model would solve the business problem
+------------------------------------------------------------
+Random Forest Test Data
+------------------------------------------------------------
+- MAE = 766.73
+- MSE = 1,216,006.15
+- RMSE = 1,102.73
+- R^2 = 0.56
+
+------------------------------------------------------------
+Tuned Random Forest Test Data
+------------------------------------------------------------
+- MAE = 734.69
+- MSE = 1,119,162.23
+- RMSE = 1,057.90
+- R^2 = 0.59
+
+
+The Final Model Chosen was a Random Forest Regressor Model with the n_estimators tuned to 100.
+
+For the testing set on the model, 59% of the variance in y was explained by x.
+
+The Mean Absolute Error was off by about $734.69.
+
+The Mean Squared Error was $1,119,162.23.
+
+The Root Mean Squared Error had a calculation of $1,057.90.
+
 
 ## Recommendations:
 
@@ -55,4 +89,7 @@ More of your own text here
 ### For further information
 
 
-For any additional questions, please contact **email**
+For any additional questions, please contact 
+
+Michael Vidale
+**mvidales775@gmail.com**
