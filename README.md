@@ -37,7 +37,7 @@ From this dataset, there were 8523 rows and 11 columns
 #### Item sales by type
 ![ITEMSALES_BY_TYPE.png](ITEMSALES_BY_TYPE.png)
 
-> On average seafood and household have the highest sales per outlet, While Soft drinks and baking Goods have the loswest.
+> On average seafood and household have the highest sales per outlet, While Soft drinks and baking Goods have the lowest.
 
 
 ## Maching Learning Using the Following Models:
