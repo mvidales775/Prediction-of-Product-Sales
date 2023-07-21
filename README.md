@@ -5,9 +5,6 @@
 
 ### Business problem:
 
-Here is where you state the business problem you were trying to solve
-
-
 ### Data:
 [Big Mart Sales Prediction](https://datahack.analyticsvidhya.com/contest/practice-problem-big-mart-sales-iii/)
 
