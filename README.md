@@ -1,4 +1,4 @@
-# Preditction of Product Sales
+# Prediction of Product Sales
 ## Analyzing Diffrent factors that effect sales
 
 **Michael Vidales** 
