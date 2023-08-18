@@ -86,13 +86,12 @@ The Root Mean Squared Error had a calculation of $1,057.90.
 
 ## Recommendations:
 
-More of your own text here
-
+Model Performance
+- The best performing model would be the tuned Random Forest Regressor model.
 
 ## Limitations & Next Steps
 
-More of your own text here
-
+From here, a bussiness owner could use the insights from the visuals on they type of iventory and the amount to keep in stock to maximize profits.
 
 ### For further information
 
